@@ -3,7 +3,7 @@ Repo for the Pacebi Alliance logo and its usage
 
 ## Logo
 The logo is comprised of four pride flags (pan, ace, queer chevron, bi) in five columns.<br>
-The logo as a whole is in a ratio of 1:1. In order from left to right, the column ratios are 3:\2:3\:2:3.<br>
+The logo as a whole is in a ratio of 1:1. In order from left to right, the column ratios are 3\:2:3\:2:3.<br>
 In order from top to bottom, the row ratios are 1\:1:1 (pan) 1\:1\:1:1 (ace) 2\:1:2 (bi). The queer chevron flag was eyeballed; the ratio would be impractical to write.<br>
 Refer to the SVG for exact measurement and colour.<br>
 
